@@ -18,6 +18,10 @@ A beginner-friendly, responsive Weather App built with **HTML**, **CSS**, and **
 - Understanding how APIs like WeatherAPI structure data  
 - Debugging API results (like avoiding getting Delhi, Canada 😂)
 
+## 🔗 Live Demo
+
+👉 [Click here to view the live app](https://weatherapp-by-rudra.netlify.app)
+
 ## 🛠️ Tech Stack
 
 - HTML  
